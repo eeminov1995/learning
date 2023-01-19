@@ -10,3 +10,7 @@
 
 - [Stepik Поколение Python для начинающих](#stepik-поколение-python-для-начинающих)
     - [Содержание](#содержание)
+- [Ввод-вывод данных](README.md)
+    - [2.2.команды print и input](2.2.%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_print_%D0%B8_input/)
+    - [2.3.sep end переменные PEP 8](2.3.sep_end_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_PEP_8/) 
+  

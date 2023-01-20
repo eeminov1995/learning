@@ -26,3 +26,5 @@
     - [6.1.числовые типы данных](6.1.%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D1%82%D0%B8%D0%BF%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_int_float/)
     - [6.2.строковый тип данных](6.2.%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%B8%D0%BF_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/)
     - [6.3 Модуль math](6.3.%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_math/)
+- [7  Циклы for и while](README.md)
+    - [7.1 Цикл for](7.1.%D0%A6%D0%B8%D0%BA%D0%BB_for/)

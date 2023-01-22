@@ -29,3 +29,4 @@
 - [7  Циклы for и while](README.md)
     - [7.1 Цикл for](7.1.%D0%A6%D0%B8%D0%BA%D0%BB_for/)
     - [7.2 Цикл for: функция range](7.2.%D0%A6%D0%B8%D0%BA%D0%BB_for%3A_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_range/)
+    - [7.3 Частые сценарии](7.3.%D0%A7%D0%B0%D1%81%D1%82%D1%8B%D0%B5_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8/)

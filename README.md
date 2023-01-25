@@ -30,3 +30,6 @@
     - [7.1 Цикл for](7.1.%D0%A6%D0%B8%D0%BA%D0%BB_for/)
     - [7.2 Цикл for: функция range](7.2.%D0%A6%D0%B8%D0%BA%D0%BB_for%3A_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_range/)
     - [7.3 Частые сценарии](7.3.%D0%A7%D0%B0%D1%81%D1%82%D1%8B%D0%B5_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8/)
+    - [7.4 Цикл while](7.4.%D0%A6%D0%B8%D0%BA%D0%BB_while/)
+    - [7.5 Цикл while: обработка цифр числа](7.5.%D0%A6%D0%B8%D0%BA%D0%BB_while%3A_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%86%D0%B8%D1%84%D1%80_%D1%87%D0%B8%D1%81%D0%BB%D0%B0/)
+    - [7.6 break, continue и else](7.6.break%2C_continue_%D0%B8_else/)

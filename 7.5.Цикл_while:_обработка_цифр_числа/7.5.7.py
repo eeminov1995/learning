@@ -1,0 +1,13 @@
+n = int(input())
+total = 0
+product = 1
+counter = 0
+l_digit = n % 10
+while n != 0:
+    last_digit = n % 10
+    total += last_digit
+    product *= last_digit
+    counter += 1
+    first_digit = n
+    n //= 10
+print(total, counter, product, total / counter, first_digit, first_digit + l_digit, sep='\n')
